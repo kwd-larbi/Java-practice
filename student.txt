@@ -1,0 +1,3 @@
+Edan Barrett 20 ComputerScience 3.4
+Reagan Bradshaw 19 InformationTechnology 3.8
+Caius Charlton 21 CyberSecurity 3.2
